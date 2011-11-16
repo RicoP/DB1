@@ -3,4 +3,4 @@
 *~
 .metadata/
 *.class
-
+.DS_Store
